@@ -1,0 +1,4 @@
+numpy>=1.24
+matplotlib>=3.7
+jsonlib>=1.6.1
+mpremote>=1.22.0
