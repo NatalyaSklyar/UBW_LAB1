@@ -1,0 +1,120 @@
+DS-TWR Anchor
+[6]RX1 get - [6]TX2 send - [6]RX3 get - Distance:947 mm
+
+[7]RX1 get - [7]TX2 send - [7]RX3 get - Distance:909 mm
+
+[8]RX1 get - [8]TX2 send - [8]RX3 get - Distance:839 mm
+
+[9]RX1 get - [9]TX2 send - [9]RX3 get - Distance:708 mm
+
+[10]RX1 get - [10]TX2 send - [10]RX3 get - Distance:734 mm
+
+[11]RX1 get - [11]TX2 send - [11]RX3 get - Distance:594 mm
+
+[12]RX1 get - [12]TX2 send - [12]RX3 get - Distance:479 mm
+
+RX1 timeout
+[13]RX1 get - [13]TX2 send - [13]RX3 get - Distance:357 mm
+
+[14]RX1 get - [14]TX2 send - [14]RX3 get - Distance:311 mm
+
+[15]RX1 get - [15]TX2 send - [15]RX3 get - Distance:410 mm
+
+[16]RX1 get - [16]TX2 send - [16]RX3 get - Distance:387 mm
+
+[17]RX1 get - [17]TX2 send - [17]RX3 get - Distance:490 mm
+
+[18]RX1 get - [18]TX2 send - [18]RX3 get - Distance:544 mm
+
+[19]RX1 get - [19]TX2 send - [19]RX3 get - Distance:756 mm
+
+[20]RX1 get - [20]TX2 send - [20]RX3 get - Distance:874 mm
+
+[21]RX1 get - [21]TX2 send - [21]RX3 get - Distance:857 mm
+
+[22]RX1 get - [22]TX2 send - [22]RX3 get - Distance:702 mm
+
+[23]RX1 get - [23]TX2 send - [23]RX3 get - Distance:479 mm
+
+[24]RX1 get - [24]TX2 send - [24]RX3 get - Distance:376 mm
+
+[25]RX1 get - [25]TX2 send - [25]RX3 get - Distance:282 mm
+
+[26]RX1 get - [26]TX2 send - [26]RX3 get - Distance:267 mm
+
+[27]RX1 get - [27]TX2 send - [27]RX3 get - Distance:435 mm
+
+[28]RX1 get - [28]TX2 send - [28]RX3 get - Distance:517 mm
+
+RX1 timeout
+[29]RX1 get - [29]TX2 send - [29]RX3 get - Distance:672 mm
+
+[30]RX1 get - [30]TX2 send - [30]RX3 get - Distance:864 mm
+
+[31]RX1 get - [31]TX2 send - [31]RX3 get - Distance:846 mm
+
+[32]RX1 get - [32]TX2 send - [32]RX3 get - Distance:667 mm
+
+[33]RX1 get - [33]TX2 send - [33]RX3 get - Distance:505 mm
+
+[34]RX1 get - [34]TX2 send - [34]RX3 get - Distance:337 mm
+
+[35]RX1 get - [35]TX2 send - [35]RX3 get - Distance:306 mm
+
+[36]RX1 get - [36]TX2 send - [36]RX3 get - Distance:345 mm
+
+[37]RX1 get - [37]TX2 send - [37]RX3 get - Distance:365 mm
+
+[38]RX1 get - [38]TX2 send - [38]RX3 get - Distance:485 mm
+
+[39]RX1 get - [39]TX2 send - [39]RX3 get - Distance:606 mm
+
+[40]RX1 get - [40]TX2 send - [40]RX3 get - Distance:704 mm
+
+[41]RX1 get - [41]TX2 send - [41]RX3 get - Distance:860 mm
+
+[42]RX1 get - [42]TX2 send - [42]RX3 get - Distance:752 mm
+
+[43]RX1 get - [43]TX2 send - [43]RX3 get - Distance:652 mm
+
+[44]RX1 get - [44]TX2 send - [44]RX3 get - Distance:543 mm
+
+[45]RX1 get - [45]TX2 send - [45]RX3 get - Distance:401 mm
+
+[46]RX1 get - [46]TX2 send - [46]RX3 get - Distance:379 mm
+
+[47]RX1 get - [47]TX2 send - [47]RX3 get - Distance:359 mm
+
+[48]RX1 get - [48]TX2 send - [48]RX3 get - Distance:463 mm
+
+[49]RX1 get - [49]TX2 send - [49]RX3 get - Distance:384 mm
+
+[50]RX1 get - [50]TX2 send - [50]RX3 get - Distance:453 mm
+
+[51]RX1 get - [51]TX2 send - [51]RX3 get - Distance:624 mm
+
+[52]RX1 get - [52]TX2 send - [52]RX3 get - Distance:840 mm
+
+[53]RX1 get - [53]TX2 send - [53]RX3 get - Distance:928 mm
+
+[54]RX1 get - [54]TX2 send - [54]RX3 get - Distance:864 mm
+
+[55]RX1 get - [55]TX2 send - [55]RX3 get - Distance:814 mm
+
+[56]RX1 get - [56]TX2 send - [56]RX3 get - Distance:623 mm
+
+RX1 timeout
+[57]RX1 get - [57]TX2 send - [57]RX3 get - Distance:476 mm
+
+[58]RX1 get - [58]TX2 send - [58]RX3 get - Distance:275 mm
+
+[59]RX1 get - [59]TX2 send - [59]RX3 get - Distance:276 mm
+
+[60]RX1 get - [60]TX2 send - [60]RX3 get - Distance:319 mm
+
+[61]RX1 get - [61]TX2 send - [61]RX3 get - Distance:530 mm
+
+[62]RX1 get - [62]TX2 send - [62]RX3 get - Distance:823 mm
+
+[63]RX1 get - [63]TX2 send - [63]RX3 get - Distance:806 mm
+
