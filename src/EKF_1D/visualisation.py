@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 
 def plot_results(measured_distances: np.ndarray, estimated_positions: np.ndarray,
-                 estimated_velocities: np.ndarray, dt: float) -> None:
+                 estimated_velocities: np.ndarray, dt: float, path_to_png) -> None:
     """
     Визуализация результатов фильтрации.
 
@@ -11,6 +11,7 @@ def plot_results(measured_distances: np.ndarray, estimated_positions: np.ndarray
     :param estimated_positions: Массив оцененных позиций
     :param estimated_velocities: Массив оцененных скоростей
     :param dt: Временной шаг
+    :param path_to_png: Адрес для сохранения графика в png
     """
     time_steps = np.arange(len(measured_distances)) * dt
 
@@ -34,5 +35,5 @@ def plot_results(measured_distances: np.ndarray, estimated_positions: np.ndarray
     plt.legend()
 
     plt.subplots_adjust(hspace=0.5)
-    plt.savefig("data/plt.png")
+    plt.savefig(path_to_png)
     plt.show()

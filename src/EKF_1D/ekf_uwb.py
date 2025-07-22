@@ -27,8 +27,14 @@ class EKF_UWB:
         h = np.array([[np.abs(x + vx * self.dt - xa)]])
 
         # Якобиан H
-        epsilon = 1e-6
-        H = np.array([[(x + vx * self.dt - xa) / (np.abs(x + vx * self.dt - xa) + epsilon), 0]])
+        # epsilon = 1e-6
+        # H = np.array([[(x + vx * self.dt - xa) / (np.abs(x + vx * self.dt - xa) + epsilon), 0]])
+
+        dx = x + vx * self.dt - xa
+        denom = np.abs(dx) + 1e-6
+        sign = dx / denom
+
+        H = np.array([[sign, sign * self.dt]])
 
         # Инновация и её ковариация
         y_residual = np.array([[measured_distance]]) - h  # Разница измерений
